@@ -4227,17 +4227,17 @@ img.img-gray:hover,
   transition: transform 0.3s ease,-webkit-transform 0.3s ease;
 } */
 
-/* img.img-rotate:hover,
-.img-rotate:hover img {
-  transform: rotate(360deg);
-  -ms-transform: rotate(360deg);
+/* img.img-rotate:hover, */
+/* .img-rotate:hover img { */
+  /* transform: rotate(360deg); */
+  /* -ms-transform: rotate(360deg); */
   /* IE 9 */
-  -moz-transform: rotate(360deg);
+  /* -moz-transform: rotate(360deg); */
   /* Firefox */
-  -webkit-transform: rotate(360deg);
+  /* -webkit-transform: rotate(360deg); */
   /* Safari and Chrome */
-  -o-transform: rotate(360deg);
-} */
+  /* -o-transform: rotate(360deg); */
+}
 
 /*img-burn*/
 

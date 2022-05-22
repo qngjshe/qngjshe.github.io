@@ -1,2 +1,2 @@
-http://127.0.0.1/about/index.html
-http://127.0.0.1/
+https://qngjshe.github.io/about/index.html
+https://qngjshe.github.io/

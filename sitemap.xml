@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://127.0.0.1/about/index.html</loc>
+    <loc>https://qngjshe.github.io/about/index.html</loc>
     
     <lastmod>2022-05-21</lastmod>
     
@@ -12,7 +12,7 @@
   
 
   <url>
-    <loc>http://127.0.0.1/</loc>
+    <loc>https://qngjshe.github.io/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
