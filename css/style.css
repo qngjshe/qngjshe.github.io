@@ -7333,7 +7333,6 @@ body.okayNav-loaded {
   background: linear-gradient(to right, #1a2433 0%, #253449 80%, #253449 100%);
 }
 
-/* wait to change */
 .theme-blue .header {
   background: #0062c5;
   background: -webkit-linear-gradient(left, #0062c5 0%, #0073e6 80%, #0073e6 100%);
@@ -7341,11 +7340,12 @@ body.okayNav-loaded {
   background: linear-gradient(to right, #0062c5 0%, #0073e6 80%, #0073e6 100%);
 }
 
+/* wait to change */
 .theme-red .header {
-    background: #0062c5;
-    background: -webkit-linear-gradient(left, #0062c5 0%, #0073e6 80%, #0073e6 100%);
-    background: -webkit-gradient(linear, left top, right top, from(#0062c5), color-stop(80%, #0073e6), to(#0073e6));
-    background: linear-gradient(to right, #0062c5 0%, #0073e6 80%, #0073e6 100%);
+    background: #C62828;
+    background: -webkit-linear-gradient(left, #C62828 0%, #E53935 80%, #E53935 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#C62828), color-stop(80%, #E53935), to(#E53935));
+    background: linear-gradient(to right, #C62828 0%, #E53935 80%, #E53935 100%);
   }
 
 .theme-green .header {
@@ -8953,10 +8953,10 @@ body.okayNav-loaded {
 
   /* wait to change */
   .theme-red #main-navbar {
-    background: #0062c5;
-    background: -webkit-linear-gradient(left, #0062c5 0%, #0073e6 80%, #0073e6 100%);
-    background: -webkit-gradient(linear, left top, right top, from(#0062c5), color-stop(80%, #0073e6), to(#0073e6));
-    background: linear-gradient(to right, #0062c5 0%, #0073e6 80%, #0073e6 100%);
+    background: #C62828;
+    background: -webkit-linear-gradient(left, #C62828 0%, #E53935 80%, #E53935 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#C62828), color-stop(80%, #E53935), to(#E53935));
+    background: linear-gradient(to right, #C62828 0%, #E53935 80%, #E53935 100%);
   }
 
   .theme-green #main-navbar {

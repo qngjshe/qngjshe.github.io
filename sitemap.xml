@@ -2,7 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qngjshe.github.io/qngjshe.github.io.git/2022/05/22/5%E6%9C%8820%E6%97%A5%E5%91%A8%E4%BE%8B%E4%BC%9A/</loc>
+    
+    <lastmod>2022-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qngjshe.github.io/qngjshe.github.io.git/2022/05/22/%E6%B5%8B%E8%AF%95/</loc>
+    
+    <lastmod>2022-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qngjshe.github.io/qngjshe.github.io.git/tags/index.html</loc>
+    
+    <lastmod>2022-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://qngjshe.github.io/qngjshe.github.io.git/about/index.html</loc>
+    
+    <lastmod>2022-05-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qngjshe.github.io/qngjshe.github.io.git/repository/index.html</loc>
+    
+    <lastmod>2022-05-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qngjshe.github.io/qngjshe.github.io.git/categories/index.html</loc>
     
     <lastmod>2022-05-21</lastmod>
     
@@ -20,5 +65,12 @@
 
   
 
+  
+  <url>
+    <loc>https://qngjshe.github.io/qngjshe.github.io.git/categories/%E5%91%A8%E4%BE%8B%E4%BC%9A/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
