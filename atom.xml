@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>青年共進社官方网站</title>
+  <title>青年共进社官方网站</title>
   
-  <subtitle>互勉共進</subtitle>
+  <subtitle>互勉共进</subtitle>
   <link href="https://qngjshe.github.io/atom.xml" rel="self"/>
   
   <link href="https://qngjshe.github.io/"/>
-  <updated>2022-07-10T07:19:29.691Z</updated>
+  <updated>2022-09-09T01:58:53.414Z</updated>
   <id>https://qngjshe.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>whatever-your-title-is</title>
+    <link href="https://qngjshe.github.io/2022/09/09/whatever-your-title-is/"/>
+    <id>https://qngjshe.github.io/2022/09/09/whatever-your-title-is/</id>
+    <published>2022-09-09T01:57:04.000Z</published>
+    <updated>2022-09-09T01:58:53.414Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>5月20日周例会</title>
