@@ -3,11 +3,11 @@
   <title>青年共进社官方网站</title>
   
   <subtitle>互勉共进</subtitle>
-  <link href="https://qngjshe.github.io/atom.xml" rel="self"/>
+  <link href="https://www.qngjs.eu.org/atom.xml" rel="self"/>
   
-  <link href="https://qngjshe.github.io/"/>
+  <link href="https://www.qngjs.eu.org/"/>
   <updated>2022-09-09T01:58:53.414Z</updated>
-  <id>https://qngjshe.github.io/</id>
+  <id>https://www.qngjs.eu.org/</id>
   
   <author>
     <name>青年共进社全体社员</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>whatever-your-title-is</title>
-    <link href="https://qngjshe.github.io/2022/09/09/whatever-your-title-is/"/>
-    <id>https://qngjshe.github.io/2022/09/09/whatever-your-title-is/</id>
+    <link href="https://www.qngjs.eu.org/2022/09/09/whatever-your-title-is/"/>
+    <id>https://www.qngjs.eu.org/2022/09/09/whatever-your-title-is/</id>
     <published>2022-09-09T01:57:04.000Z</published>
     <updated>2022-09-09T01:58:53.414Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>5月20日周例会</title>
-    <link href="https://qngjshe.github.io/2022/05/20/5%E6%9C%8820%E6%97%A5%E5%91%A8%E4%BE%8B%E4%BC%9A/"/>
-    <id>https://qngjshe.github.io/2022/05/20/5%E6%9C%8820%E6%97%A5%E5%91%A8%E4%BE%8B%E4%BC%9A/</id>
+    <link href="https://www.qngjs.eu.org/2022/05/20/5%E6%9C%8820%E6%97%A5%E5%91%A8%E4%BE%8B%E4%BC%9A/"/>
+    <id>https://www.qngjs.eu.org/2022/05/20/5%E6%9C%8820%E6%97%A5%E5%91%A8%E4%BE%8B%E4%BC%9A/</id>
     <published>2022-05-20T08:22:21.000Z</published>
     <updated>2022-07-10T07:19:29.691Z</updated>
     
@@ -46,7 +46,7 @@
     
     
     
-    <category term="周例会" scheme="https://qngjshe.github.io/categories/%E5%91%A8%E4%BE%8B%E4%BC%9A/"/>
+    <category term="周例会" scheme="https://www.qngjs.eu.org/categories/%E5%91%A8%E4%BE%8B%E4%BC%9A/"/>
     
     
   </entry>
